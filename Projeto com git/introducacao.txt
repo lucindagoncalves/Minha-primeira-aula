@@ -1,0 +1,1 @@
+Este é o meu pequeno projeto com o git
